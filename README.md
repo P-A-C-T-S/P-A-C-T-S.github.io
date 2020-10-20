@@ -9,6 +9,10 @@
   </h1>
   <body>
     PACTS Webpage attempt #01
+    
+    <script>
+    document.body.innerHTML = "It worked :)";
+    </script>
   </body>
   </html>
   
