@@ -1,5 +1,4 @@
 # P-A-C-T-S.github.io
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
