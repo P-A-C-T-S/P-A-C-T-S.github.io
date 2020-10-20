@@ -1,3 +1,5 @@
+#!/usr/bin/python 
+print("hello world")
 <html>
   <head>
     <meta charset="utf-8">
