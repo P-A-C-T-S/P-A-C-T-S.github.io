@@ -8,6 +8,8 @@
   </h1>
   <body>
     PACTS Webpage attempt #01
+#!/usr/bin/python   
+print('Content-type: text/html\r\n\r')
   </body>
   </html>
   
