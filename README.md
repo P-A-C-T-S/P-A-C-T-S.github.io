@@ -12,6 +12,7 @@
     
     <script>
     document.body.innerHTML = "It worked :)";
+    text("this worked too!!);
     </script>
     
   </body>
