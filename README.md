@@ -6,13 +6,14 @@
   </head>
   
   <script> 
-      "<h1>" textSize(45);
-      text("hello", 100, 100); 
-      "</h1>"
+      <h1> 
+        textSize(45);
+        text("hello", 100, 100); 
+      </h1>
   </script>
   
   <body>
-    PACTS Webpage attempt #06
+    PACTS Webpage attempt #07
     
     
     
