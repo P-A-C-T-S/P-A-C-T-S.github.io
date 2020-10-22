@@ -11,7 +11,15 @@
     PACTS Webpage attempt #11
     
     <script type="text/javascript">
-document.write("Text written using JavaScript code!");
+var password = "please";
+var x = prompt("Enter in the password "," ");
+if (x.toLowerCase() == password) {
+ alert("Come right in \n \n You've entered in the right password");
+ window.location = "good.htm";
+}
+else {
+ window.location = "bad.htm";
+}
 </script>
     
   </body>
