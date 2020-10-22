@@ -4,13 +4,15 @@
     <meta charset="utf-8">
     <title> P.A.C.T.S. </title>
   </head>
+  
   <script> 
       "<h1>" textSize(45);
       text("hello", 100, 100); 
       "</h1>"
-    </script>
+  </script>
+  
   <body>
-    PACTS Webpage attempt #05
+    PACTS Webpage attempt #06
     
     
     
