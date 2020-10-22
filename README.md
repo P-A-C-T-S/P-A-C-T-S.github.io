@@ -9,8 +9,10 @@
   </h1>
   <body>
     PACTS Webpage attempt #03
+    <script> textSize(45);
+      text("hello", 100, 100);
+    </script>
     
-    <% print(" I can't believe this works!") %>
     
   </body>
   </html>
