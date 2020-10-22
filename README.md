@@ -8,17 +8,17 @@
  
   
   <body>
-    PACTS Webpage attempt #14
+    PACTS Webpage attempt #15
     
     <script type="text/javascript">
 var password = "please";
 var x = prompt("Enter in the password "," ");
 if (x.toLowerCase() == password) {
  alert("Come right in \n \n You've entered in the right password");
- window.location = "SC-01";
+ window.location = "SC01.html";
 }
 else {
- window.location = "SC-02";
+ window.location = "SC02.html";
 }
 </script>
 
