@@ -8,13 +8,11 @@
  
   
   <body>
-    PACTS Webpage attempt #13
+    Sub-catagory-01
     
-    <script type="text/javascript">
-var password = "please";
-var x = prompt("Enter in the password "," ");
+  
 
-</script>
+
     
   </body>
   </html>
