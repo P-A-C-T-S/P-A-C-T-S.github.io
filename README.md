@@ -8,9 +8,11 @@
  
   
   <body>
-    PACTS Webpage attempt #10
+    PACTS Webpage attempt #11
     
-    <script type="text/javascript"> text("success!!!", 100, 100); </script>
+    <script type="text/javascript">
+document.write("Text written using JavaScript code!");
+</script>
     
   </body>
   </html>
