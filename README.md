@@ -10,12 +10,7 @@
   <body>
     PACTS Webpage attempt #03
     
-    <script>
-    document.body.innerHTML = "It worked :)";
-    
-    text("this worked too!!);
-    
-    </script>
+    <% print(" I can't believe this works!") %>
     
   </body>
   </html>
