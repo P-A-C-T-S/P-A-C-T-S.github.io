@@ -10,7 +10,7 @@
   <body>
     PACTS Webpage attempt #09
     
-    <script src="Alpha.js"></script>
+    <script type="text/javascript"> text("success!!!", 100, 100); </script>
     
   </body>
   </html>
