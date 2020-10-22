@@ -7,8 +7,10 @@
   
   <body>
     PACTS Webpage attempt #03
-    <script> "<h1>" textSize(45);
-      text("hello", 100, 100); "</h1>";
+    <script> 
+      "<h1>" textSize(45);
+      text("hello", 100, 100); 
+      "</h1>"
     </script>
     
     
