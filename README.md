@@ -13,7 +13,7 @@
     <script type="text/javascript">
 var password = "a";
 var x = prompt("Enter in the password "," ");
-if (x == password) {
+if (x = password) {
  alert("Come right in \n \n You've entered in the right password");
  window.location = "Alpha";
 
