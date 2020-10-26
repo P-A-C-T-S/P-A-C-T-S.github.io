@@ -19,7 +19,6 @@ if (x == password) {
 
 }
 else {
-alert("go to https://p-a-c-t-s.github.io/Alpha.js");
 
 }
 </script>
