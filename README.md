@@ -15,7 +15,7 @@ var password = "a";
 var x = prompt("Enter in the password "," ");
 if (x.toLowerCase() == password) {
  alert("Come right in \n \n You've entered in the right password");
- window.location = "Alpha.js";
+ window.location = "https://p-a-c-t-s.github.io/Alpha.js";
 
 }
 else {
