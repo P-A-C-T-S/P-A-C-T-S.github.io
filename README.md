@@ -8,10 +8,10 @@
  
   
   <body>
-    PACTS Webpage attempt #17
+    PACTS Webpage attempt #18
     
     <script type="text/javascript">
-var password = "please";
+var password = "a";
 var x = prompt("Enter in the password "," ");
 if (x.toLowerCase() == password) {
  alert("Come right in \n \n You've entered in the right password");
